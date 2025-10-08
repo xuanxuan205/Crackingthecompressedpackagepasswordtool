@@ -1,0 +1,17 @@
+# GitHub赞助配置文件
+
+# 支持的赞助平台
+github: # 如果有GitHub Sponsors账号，在这里填写用户名
+patreon: # Patreon用户名
+open_collective: # Open Collective项目名
+ko_fi: # Ko-fi用户名
+tidelift: # Tidelift包名
+community_bridge: # CommunityBridge项目名
+liberapay: # Liberapay用户名
+issuehunt: # IssueHunt用户名
+otechie: # Otechie用户名
+lfx_crowdfunding: # LFX Crowdfunding项目名
+
+# 自定义赞助链接
+custom: 
+  - "https://github.com/xuanxuan205/Crackthecompressedpackage/blob/main/SPONSOR.md"
