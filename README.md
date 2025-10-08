@@ -7,7 +7,7 @@
 [![GitHub release](https://img.shields.io/github/v/release/xuanxuan205/Crackthecompressedpackage)](https://github.com/xuanxuan205/Crackthecompressedpackage/releases/latest)
 [![GitHub downloads](https://img.shields.io/github/downloads/xuanxuan205/Crackthecompressedpackage/total)](https://github.com/xuanxuan205/Crackthecompressedpackage/releases)
 [![GitHub stars](https://img.shields.io/github/stars/xuanxuan205/Crackthecompressedpackage)](https://github.com/xuanxuan205/Crackthecompressedpackage/stargazers)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-自定义协议-red.svg)](使用协议.md)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/xuanxuan205/Crackthecompressedpackage)
 [![Language](https://img.shields.io/badge/language-Python-green.svg)](https://github.com/xuanxuan205/Crackthecompressedpackage)
 [![Security](https://img.shields.io/badge/security-verified-brightgreen.svg)](https://github.com/xuanxuan205/Crackthecompressedpackage)
@@ -369,7 +369,9 @@
 
 ## 📄 许可证
 
-本项目采用 [MIT 许可证](LICENSE) - 查看文件了解详情
+本项目采用 [自定义使用协议](使用协议.md) - 查看文件了解详情
+
+**⚠️ 重要提醒**: 使用本软件前请务必阅读并遵守 [使用协议](使用协议.md)，违规使用将承担法律责任！
 
 ---
 
