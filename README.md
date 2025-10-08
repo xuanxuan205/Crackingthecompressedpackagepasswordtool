@@ -7,6 +7,10 @@
 [![GitHub release](https://img.shields.io/github/v/release/xuanxuan205/Crackthecompressedpackage)](https://github.com/xuanxuan205/Crackthecompressedpackage/releases/latest)
 [![GitHub downloads](https://img.shields.io/github/downloads/xuanxuan205/Crackthecompressedpackage/total)](https://github.com/xuanxuan205/Crackthecompressedpackage/releases)
 [![GitHub stars](https://img.shields.io/github/stars/xuanxuan205/Crackthecompressedpackage)](https://github.com/xuanxuan205/Crackthecompressedpackage/stargazers)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/xuanxuan205/Crackthecompressedpackage)
+[![Language](https://img.shields.io/badge/language-Python-green.svg)](https://github.com/xuanxuan205/Crackthecompressedpackage)
+[![Security](https://img.shields.io/badge/security-verified-brightgreen.svg)](https://github.com/xuanxuan205/Crackthecompressedpackage)
 
 *一款专业的压缩包密码恢复工具，支持多种格式，操作简单，效率极高*
 
