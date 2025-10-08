@@ -1,15 +1,10 @@
-# 超级密码破解工具 v1.0.4
-
-<div align="center">
-
-![超级密码破解工具](images/app-screenshot.png)
 
 **一款功能强大的压缩包密码破解工具**
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-v1.0.4-green.svg)](https://github.com/xuanxuan205/password-cracker)
-[![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://python.org)
-[![GitHub](https://img.shields.io/badge/GitHub-xuanxuan205-blue.svg)](https://github.com/xuanxuan205/)
+   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+   [![Version](https://img.shields.io/badge/version-v1.0.4-green.svg)](https://github.com/xuanxuan205/password-cracker)
+   [![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://python.org)
+   [![GitHub](https://img.shields.io/badge/GitHub-xuanxuan205-blue.svg)](https://github.com/xuanxuan205/)
 
 </div>
 
