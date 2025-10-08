@@ -19,7 +19,7 @@ password-cracker/
 
 ### 2. 创建 GitHub 仓库
 
-1. 登录 GitHub: https://github.com/xuanxuan205/
+1. 登录 GitHub: https://github.com/xuanxuan205/-
 2. 点击右上角 "+" → "New repository"
 3. 仓库名称建议: `password-cracker` 或 `super-password-cracker`
 4. 添加描述: "超级密码破解工具 - 功能强大的压缩包密码破解软件"
@@ -32,8 +32,8 @@ password-cracker/
 #### 方法一：使用 Git 命令行
 ```bash
 # 1. 克隆你的空仓库
-git clone https://github.com/xuanxuan205/password-cracker.git
-cd password-cracker
+git clone https://github.com/xuanxuan205/-.git
+cd -
 
 # 2. 复制项目文件到这个目录
 # (将你的所有项目文件复制到这里)

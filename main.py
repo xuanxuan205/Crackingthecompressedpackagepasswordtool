@@ -17,7 +17,7 @@ from cracker.advanced_engine import AdvancedCracker
 from crack_window import CrackWindow, CrackWindowManager
 
 CURRENT_VERSION = "1.0.3"
-UPDATE_URL = "https://raw.githubusercontent.com/xuanxuan205/-/main/.json"  # 示例，可替换为你的json地址
+UPDATE_URL = "https://raw.githubusercontent.com/xuanxuan205/-/main/version.json"  # 版本更新信息文件
 
 def check_update():
     try:
