@@ -4,13 +4,13 @@
 
 **功能强大 | 简单易用 | 完全免费**
 
-[![GitHub release](https://img.shields.io/github/v/release/xuanxuan205/Crackthecompressedpackage)](https://github.com/xuanxuan205/Crackthecompressedpackage/releases/latest)
-[![GitHub downloads](https://img.shields.io/github/downloads/xuanxuan205/Crackthecompressedpackage/total)](https://github.com/xuanxuan205/Crackthecompressedpackage/releases)
-[![GitHub stars](https://img.shields.io/github/stars/xuanxuan205/Crackthecompressedpackage)](https://github.com/xuanxuan205/Crackthecompressedpackage/stargazers)
+[![GitHub release](https://img.shields.io/github/v/release/xuanxuan205/Crackingthecompressedpackagepasswordtool)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/latest)
+[![GitHub downloads](https://img.shields.io/github/downloads/xuanxuan205/Crackingthecompressedpackagepasswordtool/total)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases)
+[![GitHub stars](https://img.shields.io/github/stars/xuanxuan205/Crackingthecompressedpackagepasswordtool)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/stargazers)
 [![License](https://img.shields.io/badge/license-自定义协议-red.svg)](使用协议.md)
-[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/xuanxuan205/Crackthecompressedpackage)
-[![Language](https://img.shields.io/badge/language-Python-green.svg)](https://github.com/xuanxuan205/Crackthecompressedpackage)
-[![Security](https://img.shields.io/badge/security-verified-brightgreen.svg)](https://github.com/xuanxuan205/Crackthecompressedpackage)
+[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
+[![Language](https://img.shields.io/badge/language-Python-green.svg)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
+[![Security](https://img.shields.io/badge/security-verified-brightgreen.svg)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
 
 *一款专业的压缩包密码恢复工具，支持多种格式，操作简单，效率极高*
 
@@ -104,7 +104,7 @@
 - 👨‍💼 **专业用户**: 适合各种复杂破解场景  
 - 🌐 **网络较慢**: 可先下载测试，满意后再使用
 
-**⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackthecompressedpackage/releases/tag/v1.0.4) 手动下载
+**⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/tag/v1.0.4) 手动下载
 
 </div>
 
@@ -381,6 +381,6 @@
 
 *如果对您有帮助，请给个 ⭐ 支持一下！*
 
-[![Star History Chart](https://api.star-history.com/svg?repos=xuanxuan205/Crackthecompressedpackage&type=Date)](https://star-history.com/#xuanxuan205/Crackthecompressedpackage&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=xuanxuan205/Crackingthecompressedpackagepasswordtool&type=Date)](https://star-history.com/#xuanxuan205/Crackingthecompressedpackagepasswordtool&Date)
 
 </div>
