@@ -18,12 +18,22 @@
 
 <!-- 软件使用演示视频 -->
 <div align="center">
-  <video width="800" controls>
-    <source src="images/2025-10-09 21-57-05.mkv" type="video/x-matroska">
-    <p>您的浏览器不支持视频播放。请 <a href="images/2025-10-09 21-57-05.mkv">点击这里下载视频</a> 查看使用演示。</p>
-  </video>
-  <br>
-  <em>📹 软件使用演示视频 - 详细展示破解流程</em>
+  
+  **📹 软件使用演示视频**
+  
+  由于 GitHub 不支持直接播放视频，请点击下方链接查看详细使用教程：
+  
+  ### [🎬 点击观看使用演示视频](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/raw/main/images/2025-10-09%2021-57-05.mkv)
+  
+  *视频详细展示了软件的完整使用流程，包括文件选择、模式配置、破解过程等步骤*
+  
+  ---
+  
+  **💡 如果无法播放视频，建议：**
+  - 🖥️ 下载到本地使用媒体播放器观看
+  - 📱 使用支持 MKV 格式的播放器
+  - 🌐 或查看下方的图文教程
+  
 </div>
 
 </div>
