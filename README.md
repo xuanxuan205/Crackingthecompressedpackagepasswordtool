@@ -16,7 +16,15 @@
 
 [🚀 立即下载](#-立即下载) • [📖 使用指南](#-使用说明) • [💰 赞助支持](#-赞助支持) • [💬 问题反馈](../../issues) • [⭐ 给个星标](../../stargazers)
 
-![软件截图](images/app-screenshot.png)
+<!-- 软件使用演示视频 -->
+<div align="center">
+  <video width="800" controls>
+    <source src="images/2025-10-09 21-57-05.mkv" type="video/x-matroska">
+    <p>您的浏览器不支持视频播放。请 <a href="images/2025-10-09 21-57-05.mkv">点击这里下载视频</a> 查看使用演示。</p>
+  </video>
+  <br>
+  <em>📹 软件使用演示视频 - 详细展示破解流程</em>
+</div>
 
 </div>
 
