@@ -19,22 +19,61 @@
 <!-- 软件使用演示视频 -->
 <div align="center">
   
-  **📹 点击下方图片观看使用演示视频**
+  **📹 软件使用演示视频 - 点击图片观看完整教程**
   
-  [![软件使用演示视频](https://img.shields.io/badge/🎬_点击观看-使用演示视频-red?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/raw/main/images/2025-10-09%2021-57-05.mkv)
-  
-  [![视频教程](https://img.shields.io/badge/📺_视频教程-完整操作流程-blue?style=for-the-badge&logo=video&logoColor=white)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/raw/main/images/2025-10-09%2021-57-05.mkv)
-  
-  *📖 视频详细展示：文件选择 → 模式配置 → 参数设置 → 开始破解 → 查看结果*
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/raw/main/images/2025-10-09%2021-57-05.mkv">
+          <img src="images/video-preview-main.jpg" alt="主要功能演示" width="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+          <br>
+          <strong>🎬 点击观看完整视频教程</strong>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <h3>🎯 视频内容包括：</h3>
+        <ul align="left">
+          <li>✅ 软件界面介绍和功能说明</li>
+          <li>✅ 压缩包文件选择方法</li>
+          <li>✅ 不同破解模式的使用技巧</li>
+          <li>✅ 参数优化和性能调节</li>
+          <li>✅ 实际破解演示和结果查看</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
   
   ---
   
-  **🎯 视频内容包括：**
-  - ✅ 软件界面介绍和功能说明
-  - ✅ 压缩包文件选择方法
-  - ✅ 不同破解模式的使用技巧
-  - ✅ 参数优化和性能调节
-  - ✅ 实际破解演示和结果查看
+  **📺 更多视频截图预览：**
+  
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/raw/main/images/2025-10-09%2021-57-05.mkv">
+          <img src="images/video-preview-1.jpg" alt="软件启动界面" width="250" style="border-radius: 8px;">
+          <br>
+          <em>软件启动界面</em>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/raw/main/images/2025-10-09%2021-57-05.mkv">
+          <img src="images/video-preview-2.jpg" alt="破解过程演示" width="250" style="border-radius: 8px;">
+          <br>
+          <em>破解过程演示</em>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/raw/main/images/2025-10-09%2021-57-05.mkv">
+          <img src="images/video-preview-3.jpg" alt="结果展示" width="250" style="border-radius: 8px;">
+          <br>
+          <em>结果展示</em>
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  💡 **提示**: 视频时长约1分钟，详细展示了软件的完整使用流程
   
 </div>
 
