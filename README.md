@@ -16,66 +16,7 @@
 
 [🚀 立即下载](#-立即下载) • [📖 使用指南](#-使用说明) • [💰 赞助支持](#-赞助支持) • [💬 问题反馈](../../issues) • [⭐ 给个星标](../../stargazers)
 
-<!-- 软件使用演示视频 -->
-<div align="center">
-  
-  **📹 软件使用演示视频 - 点击图片观看完整教程**
-  
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/raw/main/images/2025-10-09%2021-57-05.mkv">
-          <img src="images/video-preview-main.jpg" alt="主要功能演示" width="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-          <br>
-          <strong>🎬 点击观看完整视频教程</strong>
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <h3>🎯 视频内容包括：</h3>
-        <ul align="left">
-          <li>✅ 软件界面介绍和功能说明</li>
-          <li>✅ 压缩包文件选择方法</li>
-          <li>✅ 不同破解模式的使用技巧</li>
-          <li>✅ 参数优化和性能调节</li>
-          <li>✅ 实际破解演示和结果查看</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-  
-  ---
-  
-  **📺 更多视频截图预览：**
-  
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/raw/main/images/2025-10-09%2021-57-05.mkv">
-          <img src="images/video-preview-1.jpg" alt="软件启动界面" width="250" style="border-radius: 8px;">
-          <br>
-          <em>软件启动界面</em>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/raw/main/images/2025-10-09%2021-57-05.mkv">
-          <img src="images/video-preview-2.jpg" alt="破解过程演示" width="250" style="border-radius: 8px;">
-          <br>
-          <em>破解过程演示</em>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/raw/main/images/2025-10-09%2021-57-05.mkv">
-          <img src="images/video-preview-3.jpg" alt="结果展示" width="250" style="border-radius: 8px;">
-          <br>
-          <em>结果展示</em>
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-  💡 **提示**: 视频时长约1分钟，详细展示了软件的完整使用流程
-  
-</div>
+![软件截图](images/app-screenshot.png)
 
 </div>
 
