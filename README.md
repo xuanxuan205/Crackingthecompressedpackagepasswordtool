@@ -148,8 +148,8 @@
 
 <div align="center">
 
-   ### 📦 **旧版本 v1.0.4** 
-*发布日期: 2025-6-08*
+### 📦 **历史版本 v1.0.4** 
+*发布日期: 2025-06-08*
 
 </div>
 
@@ -163,10 +163,10 @@
 <tr>
 <td align="center"><strong>🔥 完整版</strong></td>
 <td align="center">~37MB</td>
-<td>包含所有工具和字典库</td>
+<td>基础版本，功能稳定</td>
 <td align="center">
 <a href="https://gta5fuzhup.cn/share.php?code=0feb2e45" target="_blank">
-<img src="https://img.shields.io/badge/下载-完整版-brightgreen?style=for-the-badge&logo=download" alt="下载完整版">
+<img src="https://img.shields.io/badge/下载-v1.0.4-blue?style=for-the-badge&logo=download" alt="下载v1.0.4">
 </a>
 </td>
 </tr>
@@ -174,26 +174,15 @@
 
 <div align="center">
 
-   ### 💡 **下载说明**
-- 🆕 **新手用户**: 推荐下载完整版，功能全面
+### 💡 **下载说明**
+- 🆕 **新手用户**: 推荐下载v1.0.5完整版，功能全面
 - 👨‍💼 **专业用户**: 适合各种复杂破解场景  
-- 🌐 **网络较慢**: 可先下载测试，满意后再使用
+- 🌐 **网络较慢**: 可先下载v1.0.4测试版
 
-**⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/tag/V1.0.5) 手动下载：V1.0.5版本
+**⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases) 手动下载。
 
 </div>
 
-**⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/tag/v1.0.4) 手动下载：V1.0.4版本
-
->>>>>>> cbb5849eb9f72415a632e2b6d74f8d5bbe8148c9
-</div>
-=======
-</div>
-=======
-**⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/tag/v1.0.4) 手动下载：V1.0.4版本
-
->>>>>>> cbb5849eb9f72415a632e2b6d74f8d5bbe8148c9
-</div>
 ---
 
 ## 📋 系统要求
@@ -251,6 +240,8 @@
 ### 🎯 基本操作
 1. **选择文件**: 点击"浏览"选择要破解的压缩包
 2. **选择模式**: 
+   - **智能破解**: AI自动选择最优策略
+   - **GPU加速**: 硬件加速，大幅提升效率
    - **字典攻击**: 使用常见密码快速破解
    - **暴力破解**: 尝试所有可能的密码组合
    - **混合模式**: 智能组合多种破解方式
@@ -260,7 +251,7 @@
 ### 💡 使用技巧
 - **提高成功率**: 
   - 了解密码可能的规律和背景
-  - 优先使用字典攻击模式
+  - 优先使用智能破解模式
   - 根据文件来源推测常用密码
 - **优化性能**: 
   - 合理设置线程数（推荐CPU核心数×2）
@@ -365,6 +356,7 @@
 - 调整线程数设置（建议CPU核心数×2）
 - 关闭其他占用资源的程序
 - 使用SSD硬盘提升IO性能
+- 如有NVIDIA显卡，启用GPU加速
 
 </details>
 
@@ -376,6 +368,7 @@
 - 尝试切换不同的破解模式
 - 检查密码长度和字符集设置
 - 考虑使用更大的字典文件
+- 启用AI智能预测模式
 
 </details>
 
@@ -405,7 +398,7 @@
 
 ## 🔄 版本历史
 
-### v1.0.5  (2025-10-13)
+### v1.0.5 (2025-10-13)
 - 🚀 新增GPU加速破解引擎，支持CUDA和OpenCL
 - 🧠 大幅升级AI智能预测引擎，增强智能分析算法
 - 📚 新增超级密码字典系统，集成500MB+密码库
@@ -417,7 +410,7 @@
 - 📈 新增性能监控和统计功能
 - 🛠️ 优化用户界面，新增批量破解功能
 
-### [v1.0.4] - 2025-6-08
+### v1.0.4 (2025-06-08)
 - 🎉 **首次发布**: 完整功能的稳定版本
 - ✅ **多格式支持**: ZIP、RAR、7Z等主流格式
 - 🎨 **友好界面**: 直观易用的图形界面
