@@ -4,31 +4,15 @@
 
 **GPU加速 | AI智能 | 完全免费**
 
-[![GitHub release](https://img.shields.io/github/v/release/xuanxuan205/Crackingthecompressedpackagepasswordtool?style=flat-square&logo=github&color=blue)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/latest)
-[![GitHub downloads](https://img.shields.io/github/downloads/xuanxuan205/Crackingthecompressedpackagepasswordtool/total?style=flat-square&logo=github&color=green)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases)
-[![GitHub stars](https://img.shields.io/github/stars/xuanxuan205/Crackingthecompressedpackagepasswordtool?style=flat-square&logo=github&color=yellow)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/xuanxuan205/Crackingthecompressedpackagepasswordtool?style=flat-square&logo=github&color=orange)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/network)
-[![GitHub issues](https://img.shields.io/github/issues/xuanxuan205/Crackingthecompressedpackagepasswordtool?style=flat-square&logo=github&color=red)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/issues)
-
-[![License](https://img.shields.io/badge/license-MIT+自定义协议-red.svg?style=flat-square&logo=balance-scale)](使用协议.md)
-[![Platform](https://img.shields.io/badge/platform-Windows%2010/11-0078d4.svg?style=flat-square&logo=windows)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
-[![Language](https://img.shields.io/badge/language-Python%203.8+-3776ab.svg?style=flat-square&logo=python)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
-[![GPU Support](https://img.shields.io/badge/GPU-CUDA%2FOpenCL-76b900.svg?style=flat-square&logo=nvidia)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
-
-[![Security](https://img.shields.io/badge/security-verified-brightgreen.svg?style=flat-square&logo=shield)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
-[![Code Quality](https://img.shields.io/badge/code%20quality-A+-brightgreen.svg?style=flat-square&logo=codacy)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
-[![Virus Scan](https://img.shields.io/badge/virus%20scan-clean-brightgreen.svg?style=flat-square&logo=virustotal)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square&logo=github-actions)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-brightgreen.svg?style=flat-square&logo=github)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
-
-[![Version](https://img.shields.io/badge/version-v1.0.5%20终极版-blue.svg?style=flat-square&logo=tag)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/latest)
-[![AI Powered](https://img.shields.io/badge/AI-智能预测-ff6b6b.svg?style=flat-square&logo=brain)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
-[![Performance](https://img.shields.io/badge/performance-6--8x%20faster-ff9f43.svg?style=flat-square&logo=speedometer)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
-[![Dictionary](https://img.shields.io/badge/dictionary-500MB+-4834d4.svg?style=flat-square&logo=database)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
-
-[![Made with Love](https://img.shields.io/badge/made%20with-❤️-red.svg?style=flat-square)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
-[![Chinese Support](https://img.shields.io/badge/language-中文优化-red.svg?style=flat-square&logo=china)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
-[![Free Software](https://img.shields.io/badge/price-free-brightgreen.svg?style=flat-square&logo=gift)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
+[![GitHub release](https://img.shields.io/github/v/release/xuanxuan205/Crackingthecompressedpackagepasswordtool)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/latest)
+[![GitHub downloads](https://img.shields.io/github/downloads/xuanxuan205/Crackingthecompressedpackagepasswordtool/total)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases)
+[![GitHub stars](https://img.shields.io/github/stars/xuanxuan205/Crackingthecompressedpackagepasswordtool)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/stargazers)
+[![License](https://img.shields.io/badge/license-自定义协议-red.svg)](使用协议.md)
+[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
+[![Language](https://img.shields.io/badge/language-Python-green.svg)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
+[![Security](https://img.shields.io/badge/security-verified-brightgreen.svg)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
+[![GPU Support](https://img.shields.io/badge/GPU-CUDA%2FOpenCL-76b900.svg)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
+[![AI Powered](https://img.shields.io/badge/AI-智能预测-ff6b6b.svg)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
 
 *集成GPU加速与AI智能预测的终极密码破解工具，速度提升6-8倍，支持500MB+密码库*
 
