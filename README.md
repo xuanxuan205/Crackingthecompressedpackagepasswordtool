@@ -183,6 +183,16 @@
 
 </div>
 
+**⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/tag/v1.0.4) 手动下载：V1.0.4版本
+
+>>>>>>> cbb5849eb9f72415a632e2b6d74f8d5bbe8148c9
+</div>
+=======
+</div>
+=======
+**⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/tag/v1.0.4) 手动下载：V1.0.4版本
+
+>>>>>>> cbb5849eb9f72415a632e2b6d74f8d5bbe8148c9
 </div>
 ---
 
