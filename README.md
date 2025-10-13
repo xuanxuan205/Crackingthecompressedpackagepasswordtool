@@ -130,11 +130,11 @@
 - 👨‍💼 **专业用户**: 适合各种复杂破解场景  
 - 🌐 **网络较慢**: 可先下载测试，满意后再使用
 
-**⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/tag/v1.0.5) 手动下载：V1.0.5版本
+**⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/tag/V1.0.5) 手动下载：V1.0.5版本
 
 </div>
 
-**⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/tag/V1.0.4) 手动下载：V1.0.4版本
+**⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/tag/v1.0.4) 手动下载：V1.0.4版本
 
 </div>
 ---
