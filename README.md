@@ -181,7 +181,7 @@
 - 👨‍💼 **专业用户**: 适合各种复杂破解场景  
 - 🌐 **网络较慢**: 可先下载v1.0.4测试版
 
-**⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases) 手动下载。
+**⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/tag/V1.0.5) 手动下载。
 
 </div>
 
