@@ -1,5 +1,52 @@
 {
     "version": "1.0.5",
-    "changelog": "v1.0.5 重大更新：\n- 🚀 新增GPU加速破解引擎，支持CUDA和OpenCL\n- 🧠 大幅升级AI智能预测引擎，增强智能分析算法\n- 📚 新增超级密码字典系统，集成500MB+密码库\n- ⚡ 完善Hashcat和John the Ripper引擎集成\n- 📊 增强进度管理器，支持实时统计和ETA计算\n- 🔧 优化多线程性能，提升破解速度6-8倍\n- 💾 新增断点续传功能，支持进度保存和恢复\n- 🎯 新增智能破解模式，自动选择最优破解策略\n- 📈 新增性能监控和统计功能\n- 🛠️ 优化用户界面，新增批量破解功能",
-    "download_url": "https://gta5fuzhup.cn/share.php?code=d47b1114"
+    "release_date": "2025-10-18",
+    "product_name": "超级压缩包密码破解工具",
+    "author": "DeZai",
+    "description": "专业的压缩包密码破解工具，支持ZIP/7Z/RAR/PDF等多种格式",
+    "changelog": "v1.0.5 重大更新：\n✅ 全面修复7Z压缩包破解功能\n✅ 新增RTX 50系列显卡支持\n✅ 添加GPU自动检测和设置工具\n✅ 实时性能监控功能\n✅ AI智能破解引擎\n✅ GPU加速破解支持\n✅ 高级掩码破解功能\n✅ 多卷文件支持\n✅ 进度管理增强\n✅ 性能优化和稳定性提升",
+    "features": [
+        "7Z/ZIP/RAR/PDF多格式支持",
+        "AI智能破解算法",
+        "GPU硬件加速",
+        "实时性能监控",
+        "RTX 40/50系列显卡支持",
+        "多种破解模式",
+        "分卷文件支持",
+        "断点续传功能"
+    ],
+    "system_requirements": {
+        "minimum": {
+            "os": "Windows 10/11",
+            "python": "3.7+",
+            "ram": "4GB",
+            "disk": "1GB"
+        },
+        "recommended": {
+            "os": "Windows 11",
+            "python": "3.9+",
+            "ram": "8GB+",
+            "gpu": "NVIDIA RTX 4060+ 或 RTX 50系列",
+            "cuda": "12.0+"
+        }
+    },
+    "supported_formats": [
+        "ZIP", "7Z", "RAR", "TAR", 
+        "DOC", "DOCX", "XLS", "XLSX", 
+        "PPT", "PPTX", "PDF"
+    ],
+    "gpu_support": [
+        "RTX 40系列 (4060/4070/4080/4090)",
+        "RTX 50系列 (5070/5080/5090)",
+        "GTX 10/16/20/30系列",
+        "其他NVIDIA显卡"
+    ],
+    "download_url": "https://gitsfuchup.cn/share.php?code=d47h1114",
+    "update_check_url": "https://pan.baidu.com/s/16PjvUdu3yfLHWFhvNQEvJw 提取码: gb27",
+    "build_info": {
+        "build_date": "2025-10-18",
+        "build_type": "release",
+        "python_version": "3.13.5",
+        "dependencies_version": "latest"
+    }
 }
