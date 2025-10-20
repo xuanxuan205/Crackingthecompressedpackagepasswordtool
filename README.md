@@ -1,4 +1,4 @@
-<div align="center">
+<<div align="center">
 
 # 🔐 压缩包密码破解工具
 
@@ -16,7 +16,7 @@
 
 *集成GPU加速与AI智能预测的终极密码破解工具，速度提升6-8倍，支持500MB+密码库*
 
-[🚀 立即下载](#-立即下载) • [📖 使用指南](#-使用说明) • [💰 赞助支持](#-赞助支持) • [💬 问题反馈](../../issues) • [⭐ 给个星标](../../stargazers)
+[🚀 立即下载](#-立即下载) • [💻 源码购买](#-源码购买) • [📖 使用指南](#-使用说明) • [💰 赞助支持](#-赞助支持) • [💬 问题反馈](../../issues) • [⭐ 给个星标](../../stargazers)
 
 ![软件截图](images/app-screenshot.png)
 
@@ -182,6 +182,52 @@
 - 🌐 **网络较慢**: 可先下载v1.0.4测试版
 
 **⚠️ 重要提醒**: 由于GitHub下载较慢，我们提供了高速下载链接。如果链接无效，请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases/tag/V1.0.5) 手动下载。
+
+</div>
+
+---
+
+## 💻 源码购买
+
+<div align="center">
+
+### 🔥 **完整源码出售** 
+*适合学习研究和二次开发*
+
+</div>
+
+<table align="center">
+<tr>
+<th width="20%">产品类型</th>
+<th width="15%">价格</th>
+<th width="35%">包含内容</th>
+<th width="30%">购买链接</th>
+</tr>
+<tr>
+<td align="center"><strong>🔥 完整源码</strong></td>
+<td align="center"><strong>¥50</strong></td>
+<td>
+• 完整Python源代码（10000+行）<br>
+• 详细技术文档和注释<br>
+• 安装配置指南<br>
+</td>
+<td align="center">
+<a href="https://pay.ldxp.cn/shop/NXY5MN8L" target="_blank">
+<img src="https://img.shields.io/badge/立即购买-源码-orange?style=for-the-badge&logo=shopping-cart" alt="购买源码">
+</a>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💡 **源码说明**
+- 🎯 **学习价值**: 掌握Python GUI开发、多线程编程、GPU加速等技术
+- 🔧 **二次开发**: 可根据需求定制功能和界面
+- 📚 **技术栈**: Python + Tkinter + CUDA + AI算法
+- 🛠️ **技术支持**: 提供30天技术咨询和使用指导
+
+**⚠️ 重要声明**: 源码仅供学习研究使用，请遵守相关法律法规，合法使用。
 
 </div>
 
