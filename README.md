@@ -150,32 +150,6 @@
 
 <div align="center">
 
-### 📦 **历史版本 v1.0.4** 
-*发布日期: 2025-06-08*
-
-</div>
-
-<table align="center">
-<tr>
-<th width="20%">版本类型</th>
-<th width="15%">文件大小</th>
-<th width="35%">功能说明</th>
-<th width="30%">下载链接</th>
-</tr>
-<tr>
-<td align="center"><strong>🔥 完整版</strong></td>
-<td align="center">~37MB</td>
-<td>基础版本，功能稳定</td>
-<td align="center">
-<a href="https://gta5fuzhup.cn/share.php?code=0feb2e45" target="_blank">
-<img src="https://img.shields.io/badge/下载-v1.0.4-blue?style=for-the-badge&logo=download" alt="下载v1.0.4">
-</a>
-</td>
-</tr>
-</table>
-
-<div align="center">
-
 ### 💡 **下载说明**
 - 🆕 **新手用户**: 推荐下载v1.0.5完整版，功能全面
 - 👨‍💼 **专业用户**: 适合各种复杂破解场景  
