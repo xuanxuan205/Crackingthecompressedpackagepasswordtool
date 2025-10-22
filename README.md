@@ -1,4 +1,4 @@
-<<div align="center">
+<div align="center">
 
 # 🔐 压缩包密码破解工具
 
